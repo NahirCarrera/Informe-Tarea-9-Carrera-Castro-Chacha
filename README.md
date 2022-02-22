@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/93786746/140656495-1e9017c5-1622-4145-a547-0ebbe5014f3d.png)
 # <p align=center> UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE 
 ## <p align=center> FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
-# <p align=center>  INFORME TAREA 8
+# <p align=center>  INFORME TAREA 9
 # Integrantes: <p align=right> NRC: 10149
 * Carrera Vela Nahir Danae
 * Castro Chugchilan Paúl Enrique
@@ -51,7 +51,7 @@
 ## <p align=center> 17.8  Ancho de banda de circuitos resonantes 
   
 
-## <p align=center> 15.9  Aplicaciones , Una aplicación de circuito
+## <p align=center> 17.9  Aplicaciones , Una aplicación de circuito
   
 
   # CAPÍTULO 18: <p align=center> FILTROS PASIVOS
