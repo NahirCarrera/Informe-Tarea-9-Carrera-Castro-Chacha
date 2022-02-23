@@ -39,20 +39,20 @@
   
   
 ## <p align=center> 17.6 Resonancia en paralelo
-  
+![17 6](https://user-images.githubusercontent.com/93829962/155251875-6ffd8217-1bd1-4b47-a68d-2c43137bb045.jpeg)
 
 ## <p align=center> PARTE 3: CIRCUITOS EN SERIE - PARALELO
 
-## <p align=center> 17.7 Análisis de circuitos RLC en serie-paralelo
-  
-  
+## <p align=center> 17.7 Análisis de circuitos RLC en serie-paralelo  
+![17 7](https://user-images.githubusercontent.com/93829962/155251913-a69b1cb8-58a2-49f6-9910-f28ef947caed.jpeg)
+
 ## <p align=center> PARTE 4: TEMAS ESPECIALES  
   
 ## <p align=center> 17.8  Ancho de banda de circuitos resonantes 
-  
+![17 8](https://user-images.githubusercontent.com/93829962/155251945-5d10e56c-72a2-4743-a9dd-c1cd673b204a.jpeg)
 
 ## <p align=center> 17.9  Aplicaciones , Una aplicación de circuito
-  
+![17 9](https://user-images.githubusercontent.com/93829962/155251955-c77595db-8843-4a8e-90ed-97841e4a1b4d.jpeg)
 
   # CAPÍTULO 18: <p align=center> FILTROS PASIVOS
 
