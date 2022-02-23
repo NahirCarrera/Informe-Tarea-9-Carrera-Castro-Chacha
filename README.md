@@ -10,9 +10,9 @@
   ### General: 
   * Analizar los temas comprendidos entre los capítulos 17 y 18 del libro Principios de Circuitos Eléctricos empleando mapas mentales y conceptuales para una posterior resolución de los ejercicios impares planteados.
   ### Específicos
-  * Estudiar el comportamiento del voltaje, de la corriente y de la impedancia al diseñar circuitos RC y circuitos RL para comprender su funcionamiento.
-  * Explicar el análisis de circuitos RC y RL dispuestos en serie y en paralelo a través de herramientas gráficas para la obtención de voltajes, corrientes e impedancias.
-  * Realizar el fundamento explicativo de la resolución de ejercicios mediante un archivo audiovisual para el respaldo de los ejercicios resueltos.
+  * Explicar el análisis de circuitos de RLC al estar en serie o en paralelo, además de sus características con el voltaje y la corriente.
+  * Analizar los distintos tipos de filtros que existen, así como sus características en base a la frecuencia, inductancia, resistencia y capacitancia
+  * Realizar los ejercicios propuestos de número impar correspondiente a los capítulos a estudiar en el presente informe.
 ## 2. Resumen
   # CAPÍTULO 17: <p align=center> CIRCUITOS RLC Y RESONANCIA
     
