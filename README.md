@@ -70,9 +70,19 @@
   ### Explicación
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Circuitos RLC y resonancia" y "Filtros pasivos".
   ### Capítulo 17 - Ejercicios
-  
+  ![17 (1-5)](https://user-images.githubusercontent.com/93829962/155410967-dde80cd0-9041-43ce-a0c9-d8f79e8e5043.JPG)
+
+  ![17 (7-9)](https://user-images.githubusercontent.com/93829962/155410985-f3579281-5110-466b-aa5f-5fc58caeb69d.JPG)
+
+  ![17 (11-15)](https://user-images.githubusercontent.com/93829962/155410999-4a56de58-4b40-498e-bfe4-dae8f1e8ade7.JPG)
+
   ### Capítulo 18 - Ejercicios
- 
+  ![18 (11-13)](https://user-images.githubusercontent.com/93829962/155411037-081657a4-fc92-4687-9185-7b7f8447bdd5.JPG)
+
+  ![18 (15)](https://user-images.githubusercontent.com/93829962/155411049-f1277c5b-c959-4698-8337-b99edd0dc283.JPG)
+
+  ![18 (17-19)](https://user-images.githubusercontent.com/93829962/155411098-cc952cc4-be15-4758-be5a-bb9fefe9f6d6.JPG)
+
 ## 4. Video
   * 
 ## 5. Conclusiones
