@@ -19,23 +19,28 @@
 ## <p align=center> PARTE 1: CIRCUITOS EN SERIE
   
 ## <p align=center> 17.1 Impedancia de circuitos RLC en serie
+![17 1](https://user-images.githubusercontent.com/93786746/155457714-4fc9deeb-8479-455c-97c0-cb81967565ff.png)
   
 
 
 ## <p align=center> 17.2 Análisis de circuitos RLC en serie
   
+![17 2](https://user-images.githubusercontent.com/93786746/155457720-f0c2df35-49ea-4743-b6de-175f92302f55.png)
 
 
 ## <p align=center> 17.3  Resonancia en serie
   
+![17 3](https://user-images.githubusercontent.com/93786746/155457723-eacd6c48-1f53-4d8f-888b-be56e0cf52cd.png)
 
 ## <p align=center> PARTE 2: CIRCUITOS EN PARALELO
 
 ## <p align=center> 17.4 Impedancia de circuitos RLC en paralelo
   
+![17 4](https://user-images.githubusercontent.com/93786746/155457743-0bd1b933-52f8-4050-9bc6-49b301b14051.png)
 
 
 ## <p align=center> 17.5  Análisis de circuitos RLC en paralelo
+![17 5](https://user-images.githubusercontent.com/93786746/155457755-e106cacf-323d-4983-9756-a70867514f23.png)
   
   
 ## <p align=center> 17.6 Resonancia en paralelo
