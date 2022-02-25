@@ -80,7 +80,24 @@
   ![17 (7-9)](https://user-images.githubusercontent.com/93829962/155410985-f3579281-5110-466b-aa5f-5fc58caeb69d.JPG)
 
   ![17 (11-15)](https://user-images.githubusercontent.com/93829962/155410999-4a56de58-4b40-498e-bfe4-dae8f1e8ade7.JPG)
-
+  
+![image](https://user-images.githubusercontent.com/93786746/155643667-be23545f-225c-4403-b3ec-11d5d28eab04.png)
+  
+![image](https://user-images.githubusercontent.com/93786746/155643716-b90e5da1-6d86-4ac5-af48-72777c752f64.png)
+  
+![image](https://user-images.githubusercontent.com/93786746/155643740-f8bb7673-ff10-457c-84dd-ea7628387a95.png)
+  
+![image](https://user-images.githubusercontent.com/93786746/155643756-072f4423-3e1f-46e4-a3c2-7cd63a7a3876.png)
+  
+![image](https://user-images.githubusercontent.com/93786746/155643777-d9f6311e-face-44d3-81ad-fd679a6460b1.png)
+  
+![image](https://user-images.githubusercontent.com/93786746/155643799-53da500b-6c90-40b9-9a4e-670e5c92ce98.png)
+  
+![image](https://user-images.githubusercontent.com/93786746/155643813-a900cc99-32f1-4096-85ac-d6042155368e.png)
+  
+ 
+ AQUÍ LE PEGAS TU PARTE PAÚL 
+  
   ### Capítulo 18 - Ejercicios
   ![18 (11-13)](https://user-images.githubusercontent.com/93829962/155411037-081657a4-fc92-4687-9185-7b7f8447bdd5.JPG)
 
@@ -88,6 +105,17 @@
 
   ![18 (17-19)](https://user-images.githubusercontent.com/93829962/155411098-cc952cc4-be15-4758-be5a-bb9fefe9f6d6.JPG)
 
+  AQUÍ LE PEGAS TU PARTE PAÚL
+  
+![image](https://user-images.githubusercontent.com/93786746/155643846-ce9cdcb6-afc5-4135-81a2-7dc4fc57e877.png)
+  
+![image](https://user-images.githubusercontent.com/93786746/155643887-d0270039-a726-4d9f-b62d-02a865c6082b.png)
+
+![image](https://user-images.githubusercontent.com/93786746/155643907-9e96d30c-ef62-449e-91cb-1c09247b152f.png)
+  
+![image](https://user-images.githubusercontent.com/93786746/155643940-9c56fb33-727b-45b9-8766-ee9225dff743.png)
+  
+  
 ## 4. Video
   * 
 ## 5. Conclusiones
