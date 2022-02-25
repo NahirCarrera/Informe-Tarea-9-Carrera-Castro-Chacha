@@ -119,7 +119,7 @@
 ## 4. Video
   * 
 ## 5. Conclusiones
-  * 
+  * Finalizando la revisión teórica y la resolución correspondiente de los ejercicios impares del capítulo 17, podemos concluir que existe un efecto notorio que tienen las reactancias con respecto a los circuitos RLC, siendo este opuesto entre si, además se estudió la condición de resonancia en donde se identificó que las reactancias son iguales, tambien que la impedancia en un circuito RLC en serie es puramente resistiva y que cuando existe condición de resonancia la corriente es máxima. Podemos decir que el valor de la reactancia más grande determina la reactancia netra del circuito en serie y la más pequeña en el circuito en paralelo, en el último cuando hay frecuencia resonante la impedancia es máxima y que esta es puramente resistiva en condición de resonancia, finalmente el ancho de banda en circuitos RLC en serie es el intervalo de frecuecias cuando la corriente es de 0.701 o mayor y en circuitos RLC en paralelo es cuando la impedancia es de 0.701 o mayor.  
   * 
 ## 6. Bibliografía
   * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
