@@ -62,13 +62,18 @@
   # CAPÍTULO 18: <p align=center> FILTROS PASIVOS
 
 ## <p align=center> 18.1  Filtros pasabajas
+  ![Temas CAP 18 - Página 1](https://user-images.githubusercontent.com/93829976/155659180-d74acaed-ffcd-41e8-9065-31a9f498297b.jpeg)
+
 
 ## <p align=center> 18.2  Filtros pasaaltas
+![Temas CAP 18 - Página 2](https://user-images.githubusercontent.com/93829976/155659192-a42003bb-dfd7-4b87-8d09-bccd47caba39.jpeg)
 
 
 ## <p align=center> 18.3  Fitros pasabanda 
+![Temas CAP 18 - Página 3](https://user-images.githubusercontent.com/93829976/155659195-c2b344a5-6c41-4cde-a15a-9309f6b36700.jpeg)
 
 ## <p align=center> 18.4  Filtros rechazabanda, Una aplicación de circuito
+![Temas CAP 18 - Página 4](https://user-images.githubusercontent.com/93829976/155659202-811f13db-172e-4db1-9136-2858b69445c5.jpeg)
 
 
 ## 3. Explicación y resolución de ejercicios
