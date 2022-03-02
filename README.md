@@ -100,18 +100,29 @@
   
 ![image](https://user-images.githubusercontent.com/93786746/155643813-a900cc99-32f1-4096-85ac-d6042155368e.png)
   
- 
- AQUÍ LE PEGAS TU PARTE PAÚL 
+ ![image](https://user-images.githubusercontent.com/93829976/156286475-94f67882-28c8-433d-ab0b-939975c9526e.png)
+![image](https://user-images.githubusercontent.com/93829976/156286517-68454245-b077-4cbb-a267-aa4792893720.png)
+![image](https://user-images.githubusercontent.com/93829976/156286570-77a7ad35-83bf-4b2b-ab77-7c6754f60f85.png)
+![image](https://user-images.githubusercontent.com/93829976/156286630-433ad006-d8a6-4126-87be-e9e33d6558d7.png)
+![image](https://user-images.githubusercontent.com/93829976/156286692-d5674cac-f40f-4f33-9d75-197ee528b06a.png)
+![image](https://user-images.githubusercontent.com/93829976/156286723-8bbe8e0b-366c-4e23-84a2-00a866222252.png)
+
+
   
   ### Capítulo 18 - Ejercicios
+  ![image](https://user-images.githubusercontent.com/93829976/156286810-3635dd98-76e8-437b-ade4-15bf75a4770a.png)
+![image](https://user-images.githubusercontent.com/93829976/156286862-03431d5a-c258-4641-a58a-33137366a9ac.png)
+![image](https://user-images.githubusercontent.com/93829976/156286916-7f3ce60d-d963-4ff5-8cae-3af5df279441.png)
+![image](https://user-images.githubusercontent.com/93829976/156286959-bb37d379-4a43-4f26-9183-45ef65a42f9b.png)
+![image](https://user-images.githubusercontent.com/93829976/156287017-a2595107-2233-4ba5-bc3c-64ac168caf95.png)
+![image](https://user-images.githubusercontent.com/93829976/156287093-1c9516af-f50a-4439-bc27-79de40115265.png)
+
   ![18 (11-13)](https://user-images.githubusercontent.com/93829962/155411037-081657a4-fc92-4687-9185-7b7f8447bdd5.JPG)
 
   ![18 (15)](https://user-images.githubusercontent.com/93829962/155411049-f1277c5b-c959-4698-8337-b99edd0dc283.JPG)
 
   ![18 (17-19)](https://user-images.githubusercontent.com/93829962/155411098-cc952cc4-be15-4758-be5a-bb9fefe9f6d6.JPG)
-
-  AQUÍ LE PEGAS TU PARTE PAÚL
-  
+ 
 ![image](https://user-images.githubusercontent.com/93786746/155643846-ce9cdcb6-afc5-4135-81a2-7dc4fc57e877.png)
   
 ![image](https://user-images.githubusercontent.com/93786746/155643887-d0270039-a726-4d9f-b62d-02a865c6082b.png)
